@@ -1,4 +1,4 @@
-RAG BASED AI TEACHING ASSISTANT 
+## RAG BASED AI TEACHING ASSISTANT 
 
 step{1}: Take your video and process its using process_video.py
          to convert your  file from mp4 to mp3 !!

@@ -1,6 +1,6 @@
 ## RAG BASED AI TEACHING ASSISTANT 
 
-step{1}: Take your video and process its using process_video.py
+* step{1}: Take your video and process its using    process_video.py
          to convert your  file from mp4 to mp3 !!
 
 step{2} : Now create mp3 to chunks from create_chunks.py !!
